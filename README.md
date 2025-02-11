@@ -42,10 +42,5 @@ This **Power BI Dashboard** provides a **dynamic analysis** of key business metr
 4. Switch between **Sales, Profit, and Quantity** dynamically.
 5. Compare **selected year vs. previous year (PY Sales)** to gain business insights.
 
-## 📩 Contact & Portfolio
-If you're a recruiter or data enthusiast and want to discuss my work, feel free to connect:  
-🔗 **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/muralikvasantha)  
-📧 **Email**: vmk0715@gmail.com
-  **PORTFOLIO**:[View my portfolio](datascienceportfol.io/vmk0715)
 
 ⭐ **If you find this project useful, give it a star!** ⭐
