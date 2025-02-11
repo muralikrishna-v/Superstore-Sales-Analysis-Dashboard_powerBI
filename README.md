@@ -21,7 +21,7 @@ This **Power BI Dashboard** provides a **dynamic analysis** of key business metr
 ![Dashboard Preview](https://github.com/muralikrishna-v/Superstore-Sales-Analysis-Dashboard_powerBI/blob/main/Screenshot%202025-02-11%20072536.png)
 
 ### 🔍 Regional Sales Breakdown
-![Regional Analysis](<screenshot_path>)
+![Regional Analysis](https://github.com/muralikrishna-v/Superstore-Sales-Analysis-Dashboard_powerBI/blob/main/Screenshot%202025-02-11%20074647.png)
 
 ### 📈 Yearly Sales Comparison
 ![Yearly Sales Comparison](<screenshot_path>)
