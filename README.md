@@ -24,7 +24,7 @@ This **Power BI Dashboard** provides a **dynamic analysis** of key business metr
 ![Regional Analysis](https://github.com/muralikrishna-v/Superstore-Sales-Analysis-Dashboard_powerBI/blob/main/Screenshot%202025-02-11%20074647.png)
 
 ### 📈 Yearly Sales Comparison
-![Yearly Sales Comparison](<screenshot_path>)
+![Yearly Sales Comparison](https://github.com/muralikrishna-v/Superstore-Sales-Analysis-Dashboard_powerBI/blob/main/Screenshot%202025-02-11%20074707.png)
 
 ## 🛠️ Technologies Used
 - **Power BI**: For interactive visualizations and data modeling.
