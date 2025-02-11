@@ -44,7 +44,8 @@ This **Power BI Dashboard** provides a **dynamic analysis** of key business metr
 
 ## 📩 Contact & Portfolio
 If you're a recruiter or data enthusiast and want to discuss my work, feel free to connect:  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-📧 **Email**: your.email@example.com  
+🔗 **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/muralikvasantha)  
+📧 **Email**: vmk0715@gmail.com
+  **PORTFOLIO**:[View my portfolio](datascienceportfol.io/vmk0715)
 
 ⭐ **If you find this project useful, give it a star!** ⭐
